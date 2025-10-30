@@ -147,8 +147,3 @@ AI_MEDICAL_CHATBOT/
 
 ```
 
----
-
-Would you like me to include a **“Demo” section** (with placeholders for screenshots or YouTube demo link)?  
-That makes your GitHub page look even more professional.
-```
